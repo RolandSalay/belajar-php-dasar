@@ -8,7 +8,7 @@
 // var_dump 
 
 // penggunaan variabel
-$nama = "Adriano";
+$nama = "Adrian";
 echo" Halo Nama Saya $nama";
 
 // operator
